@@ -32,13 +32,10 @@ Whether you’re a seasoned bettor or just starting, Bet Predictor empowers you 
 
 ### Getting started with Bet Predictor is simple and quick! Follow these easy steps to download and install the software:
 
-Visit Our Releases or simply [click here](): Go to the official repository on [GitHub](https://github.com/ArtyNext/bet-predictor).
+* Visit Our Releases or simply [click here](): Go to the official repository on [GitHub](https://github.com/ArtyNext/bet-predictor).
 
-Create an Account: If prompted, fill out a quick registration form with your email address and password. This will allow you to access your personalized dashboard, or login with GitHub Account.
+* Create an Account: If prompted, fill out a quick registration form with your email address and password. This will allow you to access your personalized dashboard, or login with GitHub Account.
 
-### Download the Software:
-
-For Desktop: Click on the download link for your operating system (Windows or Mac). The installer will begin downloading automatically.
 
 ### Install the Software:
 
